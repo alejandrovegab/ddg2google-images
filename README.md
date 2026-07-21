@@ -19,7 +19,9 @@ A lightweight browser extension that automatically redirects DuckDuckGo image se
 
 ### Option 1: Firefox Add-ons Store (Recommended)
 
-[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/ddg-img-redir-ggl-img/)
+<a href="https://addons.mozilla.org/en-US/firefox/addon/ddg-img-redir-ggl-img/">
+  <img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr2020.svg" alt="Get the Add-on on Firefox" height="60" />
+</a>
 
 *(Works on Firefox, Zen Browser, LibreWolf, and other Gecko-based browsers).*
 
@@ -34,9 +36,9 @@ A lightweight browser extension that automatically redirects DuckDuckGo image se
    ```
 2. Open `chrome://extensions/` in your browser.
 3. Toggle on **Developer mode** in the top-right corner.
-4. Click **Load unpacked** and select the project folder.
+4. Click **Load unpacked** and select the "chrome" folder.
 
 #### Firefox / Gecko Browsers
 1. Clone or download this repository.
 2. Navigate to `about:debugging#/runtime/this-firefox`.
-3. Click **Load Temporary Add-on...** and select the `manifest.json` file.
+3. Click **Load Temporary Add-on...** and select the `manifest.json` file in the "firefox".
