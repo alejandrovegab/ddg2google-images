@@ -1,4 +1,4 @@
-# ddg2google-images
+# DuckDuckGo to Google Images
 
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Get%20the%20Add--on-ff7118?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/ddg-img-redir-ggl-img/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
