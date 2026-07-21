@@ -19,10 +19,9 @@ A lightweight browser extension that automatically redirects DuckDuckGo image se
 
 ### Option 1: Firefox Add-ons Store (Recommended)
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/ddg-img-redir-ggl-img/">
-  <img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr2020.svg" alt="Get the Add-on on Firefox" height="60" />
+<a href="https://addons.mozilla.org/en-US/firefox/addon/YOUR-ADDON-SLUG/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Get_it_on_Firefox_Add-ons_badge.svg" alt="Get the Add-on on Firefox" height="55" />
 </a>
-
 *(Works on Firefox, Zen Browser, LibreWolf, and other Gecko-based browsers).*
 
 ---
