@@ -15,24 +15,28 @@ A lightweight browser extension that automatically redirects DuckDuckGo image se
 
 ---
 
-## Installation
+## 🚀 Installation
 
-### Firefox (Recommended)
-Install the official extension directly from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/ddg-img-redir-ggl-img/).
+### Option 1: Firefox Add-ons Store (Recommended)
+
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/ddg-img-redir-ggl-img/)
+
+*(Works on Firefox, Zen Browser, LibreWolf, and other Gecko-based browsers).*
 
 ---
 
-### Manual Installation (Developer Mode)
+### Option 2: Manual / Developer Installation
 
-#### Chromium (Chrome / Brave / Edge / Opera)
+#### Chrome / Chromium Browsers
+1. Clone or download this repository:
+   ```bash
+   git clone [https://github.com/alejandrovegab/DuckDuckGo-Images-to-Google-Images.git](https://github.com/alejandrovegab/DuckDuckGo-Images-to-Google-Images.git)
+   ```
+2. Open `chrome://extensions/` in your browser.
+3. Toggle on **Developer mode** in the top-right corner.
+4. Click **Load unpacked** and select the project folder.
 
-1. Clone or download this repository to your computer:
-   git clone https://github.com/alejandrovegab/ddg2google-images.git
-
-2. Open your browser and navigate to `chrome://extensions/` (or `edge://extensions/` if you are on Microsoft Edge).
-
-3. Enable **Developer mode** using the toggle switch in the top-right corner of the extensions page.
-
-4. Click the **Load unpacked** button that appears in the top-left toolbar.
-
-5. Select the `chrome/` folder inside the cloned `ddg2google-images` directory.
+#### Firefox / Gecko Browsers
+1. Clone or download this repository.
+2. Navigate to `about:debugging#/runtime/this-firefox`.
+3. Click **Load Temporary Add-on...** and select the `manifest.json` file.
