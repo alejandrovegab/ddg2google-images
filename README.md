@@ -24,7 +24,15 @@ Install the official extension directly from the [Firefox Add-ons Store](https:/
 
 ### Manual Installation (Developer Mode)
 
-#### Chrome / Brave / Edge
-1. Clone or download this repository:
-   ```bash
-   git clone [https://github.com/alejandrovegab/ddg2google-images.git](https://github.com/alejandrovegab/ddg2google-images.git)
+#### Chromium (Chrome / Brave / Edge / Opera)
+
+1. Clone or download this repository to your computer:
+   git clone https://github.com/alejandrovegab/ddg2google-images.git
+
+2. Open your browser and navigate to `chrome://extensions/` (or `edge://extensions/` if you are on Microsoft Edge).
+
+3. Enable **Developer mode** using the toggle switch in the top-right corner of the extensions page.
+
+4. Click the **Load unpacked** button that appears in the top-left toolbar.
+
+5. Select the `chrome/` folder inside the cloned `ddg2google-images` directory.
